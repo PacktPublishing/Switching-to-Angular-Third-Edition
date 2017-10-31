@@ -14,8 +14,7 @@ All of the code is organized into folders. Each folder starts with a number foll
 
 *Note* that this seed project requires node v4.x.x or higher and npm 2.14.7.
 
-```
-bash
+```bash
 git clone --depth 1 https://github.com/mgechev/switching-to-angular.git
 cd switching-to-angular
 npm install
