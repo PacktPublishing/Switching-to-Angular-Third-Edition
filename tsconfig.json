@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "declaration": false,
+    "noImplicitAny": false,
+    "removeComments": true,
+    "noLib": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "lib": ["dom", "es6", "es2015"],
+    "sourceMap": true
+  },
+  "files": [
+    "gulpfile.ts"
+  ],
+  "compileOnSave": false
+}
