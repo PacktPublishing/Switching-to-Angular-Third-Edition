@@ -27,11 +27,9 @@ The code for the second edition could be found [here](https://github.com/mgechev
 The code will look like the following:
 
 ```
-
 var result = [1, 2, 3].reduce(function (total, current) { 
   return total + current; 
 }, 0); // 6 
-
 ```
 
 All you need to work through most of the examples in this book is a text editor or an IDE, Node.js, internet access, and a web browser.
